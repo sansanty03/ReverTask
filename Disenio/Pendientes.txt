@@ -1,0 +1,6 @@
+modelo entidad relacion
+modelo relacional
+sql script
+diseño
+repositorio fronted
+proyecto java
